@@ -22,7 +22,7 @@ The analysis explores the socio-economic determinants and causal relationships w
 │   ├── Dissertation Data Analysis.R     
 ├── Output/            # Final tables and Word documents
 ├── README.md           # Project documentation
-```text
+```
 ---
 ## Technical Implementation
 
