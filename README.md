@@ -32,21 +32,21 @@ The pipeline is built using a modular approach to ensure each stage of the disse
 
 * **Modeling:** Running multivariate regressions to control for confounding variables.
 
-    ***Exporting:** Utilizing specialized libraries (e.g., gtsummary) to convert statistical objects into formatted Word tables that meet academic standards.
+* **Exporting:** Utilizing specialized libraries (e.g., gtsummary) to convert statistical objects into formatted Word tables that meet academic standards.
 
 ---
 
 ## Getting Started
 ### Prerequisites
 
-    * R
-    * Required packages: here, tidyverse, haven, labelled, survey, srvyr, sjPlot, gtsummary, gt, officer, flextable
+* R
+* Required packages: here, tidyverse, haven, labelled, survey, srvyr, sjPlot, gtsummary, gt, officer, flextable
 
 ---
 ## Usage
 
-    * Clone the repository: git clone [https://github.com/amrikyaruzi/National-Panel-Survey-Data-Analysis.git](https://github.com/amrikyaruzi/National-Panel-Survey-Data-Analysis.git)
-    * Open the main project file and run the script
+* Clone the repository: git clone [https://github.com/amrikyaruzi/National-Panel-Survey-Data-Analysis.git](https://github.com/amrikyaruzi/National-Panel-Survey-Data-Analysis.git)
+* Open the main project file and run the script
 
 ---
 ## License
