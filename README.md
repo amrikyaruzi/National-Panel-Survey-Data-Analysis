@@ -54,6 +54,6 @@ This project is licensed under the MIT License
 
 ---
 ## Contact
-Dr. Amri Kyaruzi Ishengoma (MD, MPH)[space][space]
-Email: amrikyaruzi@gmail.com[space][space]
+Dr. Amri Kyaruzi Ishengoma (MD, MPH)  
+Email: amrikyaruzi@gmail.com  
 LinkedIn: https://www.linkedin.com/in/amri-kyaruzi-ishengoma
