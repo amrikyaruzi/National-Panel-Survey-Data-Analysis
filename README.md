@@ -17,11 +17,12 @@ The analysis explores the socio-economic determinants and causal relationships w
 
 ## Repository Structure
 ```text
-├── Data/                                 # Raw and processed datasets
-├── Code/                                 # Analysis source code
+├── Data/                                       # Raw and processed datasets
+├── Code/                                       # Analysis source code
 │   ├── Dissertation Data Analysis.R     
-├── Output/                               # Final tables (Word documents)
-├── README.md                             # Project documentation
+├── Output/                                     # Final tables (Word documents)
+├── README.md                                   # Project documentation
+├── National Panel Survey Data Analysis.Rproj   # .RProj file
 ```
 ---
 ## Technical Implementation
