@@ -28,9 +28,9 @@ The analysis explores the socio-economic determinants and causal relationships w
 
 The pipeline is built using a modular approach to ensure each stage of the dissertation can be audited:
 
-    ***Preprocessing:** Using tidyverse to handle complex survey weights and household identifiers.
+* **Preprocessing:** Using tidyverse to handle complex survey weights and household identifiers.
 
-    ***Modeling:** Running multivariate regressions to control for confounding variables.
+* **Modeling:** Running multivariate regressions to control for confounding variables.
 
     ***Exporting:** Utilizing specialized libraries (e.g., gtsummary) to convert statistical objects into formatted Word tables that meet academic standards.
 
